@@ -75,10 +75,11 @@ I found this UI from a YouTube video and decided to code it myself, and then tha
 <br/>
 
 ## Credits
-
 Channel: [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA)
-
 Video: ![<img src="./Img/Ng.jpg" width="200">](https://www.youtube.com/watch?v=CSa6Ocyog4U)
+Channel Name: Marcus Ng
+<br/>
+[<img width="200" src="https://github.com/AbhilashTUofficial/Travel-App-Flutter/blob/main/Img/Ng.jpg">][Ng]
 
 [website]: https://abhilashtuofficial.github.io/
 [dart]: https://github.com/AbhilashTUofficial/CloneApps
